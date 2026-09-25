@@ -1,0 +1,24 @@
+{
+  "name": "sona-stream-extractor-backend",
+  "version": "1.0.0",
+  "description": "High-fidelity audio stream extraction & demuxing service for Sona Android City Pop Music Player",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "fluent-ffmpeg": "^2.1.3",
+    "play-dl": "^1.9.7",
+    "ytdl-core": "^4.11.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

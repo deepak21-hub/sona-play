@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Vinyl Disc Outer Ring -->
+    <path
+        android:fillColor="#121214"
+        android:pathData="M54,54m-34,0a34,34 0 1,0 68,0a34,34 0 1,0 -68,0" />
+    <!-- Outer Rim Outline -->
+    <path
+        android:strokeColor="#FFD166"
+        android:strokeWidth="1.5"
+        android:pathData="M54,54m-33,0a33,33 0 1,0 66,0a33,33 0 1,0 -66,0" />
+    <!-- Grooves -->
+    <path
+        android:strokeColor="#2C2C33"
+        android:strokeWidth="1"
+        android:pathData="M54,54m-26,0a26,26 0 1,0 52,0a26,26 0 1,0 -52,0" />
+    <path
+        android:strokeColor="#2C2C33"
+        android:strokeWidth="1"
+        android:pathData="M54,54m-20,0a20,20 0 1,0 40,0a20,20 0 1,0 -40,0" />
+    <!-- Center 45 RPM Label -->
+    <path
+        android:fillColor="#E63946"
+        android:pathData="M54,54m-14,0a14,14 0 1,0 28,0a14,14 0 1,0 -28,0" />
+    <path
+        android:strokeColor="#FFD166"
+        android:strokeWidth="1"
+        android:pathData="M54,54m-14,0a14,14 0 1,0 28,0a14,14 0 1,0 -28,0" />
+    <!-- Center Spindle Hole -->
+    <path
+        android:fillColor="#090D18"
+        android:pathData="M54,54m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+    <path
+        android:strokeColor="#FFD166"
+        android:strokeWidth="1"
+        android:pathData="M54,54m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+</vector>

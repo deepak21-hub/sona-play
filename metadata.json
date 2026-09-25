@@ -1,0 +1,6 @@
+{
+  "name": "Sona",
+  "description": "Retro Japanese City Pop & Hi-Res audio player with vinyl playback, stream extractor, and landscape audio suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
